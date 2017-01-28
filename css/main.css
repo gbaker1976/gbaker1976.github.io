@@ -288,16 +288,16 @@ table.card td:nth-child(2) {
     background: #fff
 }
 
-.g-grid {
+.grid {
 	display: flex;
 }
 
-.g-grid .cel {
+.grid .cel {
 	flex: 1;
 	justify-content: space-between;
 }
 
-.w-4 {
+.grid .cel.w-4 {
 	30%;
 }
 
