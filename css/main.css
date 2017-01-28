@@ -290,11 +290,11 @@ table.card td:nth-child(2) {
 
 .grid {
 	display: flex;
+	justify-content: space-between;
 }
 
 .grid .cel {
 	flex: 1;
-	justify-content: space-between;
 }
 
 .grid .cel.w-4 {
