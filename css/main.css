@@ -291,10 +291,11 @@ table.card td:nth-child(2) {
 .grid {
 	display: flex;
 	justify-content: space-between;
+	margin: 1em 0;
 }
 
 .grid .cel {
-
+	background: #eee;
 }
 
 .grid .cel.w-25 {
