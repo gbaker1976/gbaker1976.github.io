@@ -331,9 +331,13 @@ table.card td:nth-child(2) {
 }
 
 body {
-    color: #999!important;
+    color: #777!important;
     font-size: 16px;
     line-height: 1.5em
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #333;
 }
 
 @media (max-width: 600px) {
