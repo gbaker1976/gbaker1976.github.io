@@ -294,11 +294,11 @@ table.card td:nth-child(2) {
 }
 
 .grid .cel {
-	flex: 1;
+
 }
 
 .grid .cel.w-4 {
-	width: 30%;
+	width: 32%;
 }
 
 body {
