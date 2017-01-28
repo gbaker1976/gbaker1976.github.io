@@ -308,6 +308,7 @@ table.card td:nth-child(2) {
 
 .g-box .g-cell {
     flex: 1;
+	outline: solid 1px #333;
 }
 
 .g-box .a-center {
