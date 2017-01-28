@@ -294,11 +294,12 @@ table.card td:nth-child(2) {
 
 .g-box, .g-box .g-col {
     display: flex;
-    flex: 1
+    flex: 1;
 }
 
 .g-box .g-col {
-    flex-flow: column wrap
+    flex-flow: column wrap;
+	justify-content: space-between;
 }
 
 .g-box .g-row {
@@ -308,7 +309,6 @@ table.card td:nth-child(2) {
 
 .g-box .g-cell {
     flex: 1;
-	outline: solid 1px #333;
 }
 
 .g-box .a-center {
