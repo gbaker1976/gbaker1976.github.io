@@ -353,4 +353,8 @@ h1, h2, h3, h4, h5, h6 {
 	.grid .cel.w-25, .grid .cel.w-30, .grid .cel.w-50, .grid .cel.w-70, .grid .cel.w-80, .grid .cel.w-90, .grid .cel.w-100 {
 		width: 100%;
 	}
+
+	.page {
+		margin: 0 auto;
+	}
 }
