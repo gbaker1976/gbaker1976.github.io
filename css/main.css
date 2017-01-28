@@ -310,8 +310,24 @@ table.card td:nth-child(2) {
 	width: 49%;
 }
 
+.grid .cel.w-70 {
+	width: 70%;
+}
+
+.grid .cel.w-80 {
+	width: 80%;
+}
+
+.grid .cel.w-90 {
+	width: 90%;
+}
+
 .grid .cel.w-100 {
 	width: 100%;
+}
+
+.grid .a-center {
+	justify-content: center;
 }
 
 body {
