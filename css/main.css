@@ -297,28 +297,16 @@ table.card td:nth-child(2) {
 
 }
 
-.grid .cel.w-10 {
-	width: 10%;
-}
-
 .grid .cel.w-25 {
-	width: 25%;
+	width: 24%;
 }
 
 .grid .cel.w-30 {
-	width: 30%;
-}
-
-.grid .cel.w-40 {
-	width: 40%;
+	width: 32%;
 }
 
 .grid .cel.w-50 {
-	width: 50%;
-}
-
-.grid .cel.w-75 {
-	width: 75%;
+	width: 49%;
 }
 
 .grid .cel.w-100 {
