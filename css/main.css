@@ -326,7 +326,7 @@ table.card td:nth-child(2) {
 	width: 100%;
 }
 
-.grid .a-center {
+.grid.a-center {
 	justify-content: center;
 }
 
