@@ -336,8 +336,8 @@ body {
     line-height: 1.5em
 }
 
-@media (max-width: 500px) {
-	.grid .cel {
+@media (max-width: 900px) {
+	.grid {
 		display: block;
 	}
 
